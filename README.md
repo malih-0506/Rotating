@@ -1,2 +1,2 @@
 # Rotating
-rotating.muddassir-alial.repl.co
+https://replit.com/@Muddassir-AliAl/Rotating
